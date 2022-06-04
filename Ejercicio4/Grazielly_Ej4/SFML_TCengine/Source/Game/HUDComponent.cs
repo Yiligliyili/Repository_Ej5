@@ -99,5 +99,7 @@ namespace TCGame
             HUDComponent clonedComponent = new HUDComponent(m_Label, m_Font);
             return clonedComponent;
         }
+
+       
     }
 }
